@@ -1,0 +1,44 @@
+token literal names:
+null
+'se'
+'senao'
+'intr'
+'real'
+'crtr'
+'retorne'
+'vazia'
+'enquanto'
+'para'
+null
+'e'
+'ou'
+null
+null
+null
+null
+
+token symbolic names:
+null
+SE
+SENAO
+INTEIRO
+REAL
+CARACTERE
+RETORNE
+VAZIA
+ENQUANTO
+PARA
+NAO
+E
+OU
+OPA
+OPL
+ID
+WS
+
+rule names:
+variavel
+
+
+atn:
+[3, 24715, 42794, 33075, 47597, 16764, 15335, 30598, 22884, 3, 18, 8, 4, 2, 9, 2, 3, 2, 3, 2, 3, 2, 3, 2, 2, 2, 3, 2, 2, 3, 4, 2, 5, 7, 9, 9, 2, 6, 2, 4, 3, 2, 2, 2, 4, 5, 9, 2, 2, 2, 5, 6, 7, 17, 2, 2, 6, 3, 3, 2, 2, 2, 2]
